@@ -71,3 +71,14 @@ Clients -> Receives Message
 Clients -> Decrypts Message
 Clients -> Displays Message
 ```
+
+# Config.ini for client for test server
+```
+[Settings]
+username=User
+serverip=185.80.130.181
+serverport=1337
+encryptkeyone=5VsGhICbtuaHHyZL15swIJcI_Y-92_mD1A4CPIRlqZ0=
+encryptkeytwo=4U0PuVWPkkj4nG8KhzTcbLBf6heiX6QOH6DGud4Vsz8=
+encryptkeythree=69t_WLCzYwbgbnKRvLTQydeHBJIbzIZNVvn4BunLwZc=
+```
